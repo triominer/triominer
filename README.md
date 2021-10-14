@@ -6,11 +6,11 @@ Lightweight miner with scheduling option! Application that performs background m
 
 Options:
 
-Schedule mining;
+Schedule mining hours;
 Start with Windows;
 Hide in SystemTray;
 Hide icon;
-Mine in CPU;
+Miner in CPU;
 Simple to set up;
 
 <!--
