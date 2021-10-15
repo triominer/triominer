@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/08 10:33:31.000.371,=C:\Users\metam\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 10:38:36.000.668,C:\Users\metam\Desktop\MineradorDelphi\untMiner.pas=C:\Users\metam\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/08 10:38:36.000.668,C:\Users\metam\Desktop\MineradorDelphi\untMiner.dfm=C:\Users\metam\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/10/08 10:38:52.000.949,C:\Users\metam\Desktop\MineradorDelphi\MineradorDelphi.dproj=C:\Users\metam\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/10/08 18:17:12.000.152,=C:\Users\metam\Desktop\MineradorDelphi\Win32\Debug\xmrig.exe</Transaction>
+    <Transaction>2021/10/10 20:24:49.000.768,=C:\Users\metam\Downloads\xmrig-6.15.0-gcc-win64\xmrig-6.15.0\xmrig.exe</Transaction>
+    <Transaction>2021/10/10 20:26:58.000.321,=C:\Users\metam\Desktop\MineradorDelphi\Win32\Debug\xmrig.exe</Transaction>
+    <Transaction>2021/10/10 20:26:58.000.251,C:\Users\metam\Downloads\xmrig-6.15.0-gcc-win64\xmrig-6.15.0\xmrig.exe=</Transaction>
+    <Transaction>2021/10/11 11:55:29.000.882,=C:\Users\metam\Desktop\MineradorDelphi\Unit1.pas</Transaction>
+    <Transaction>2021/10/11 12:00:56.000.000,C:\Users\metam\Desktop\MineradorDelphi\Unit1.pas=C:\Users\metam\Desktop\MineradorDelphi\untContribuir.pas</Transaction>
+    <Transaction>2021/10/11 12:00:56.000.000,C:\Users\metam\Desktop\MineradorDelphi\Unit1.dfm=C:\Users\metam\Desktop\MineradorDelphi\untContribuir.dfm</Transaction>
+    <Transaction>2021/10/12 11:56:27.000.583,=C:\Users\metam\Google Drive\Pessoal\TRABALHO\DESENVOLVIMENTO_AI\Xoutros\Trio_miner\MineradorDelphi\xmrig.exe</Transaction>
+  </Transactions>
+</BorlandProject>
