@@ -28,5 +28,5 @@ Trio miner settings are quite simple and provide privacy for those who want to m
 * BTC: `bc1qqvzfnf3ld08f3u9s6adtg0ltq8hu8kwj0w0mrt`
 
 ## Contacts
-* ailtonmatos.1984@gmail.com
+* triominer2024@gmail.com
 
